@@ -1,0 +1,7 @@
+C:\Users\user\source\repos\ALG1\ALG1\bin\Debug\ALG1.exe.config
+C:\Users\user\source\repos\ALG1\ALG1\bin\Debug\ALG1.exe
+C:\Users\user\source\repos\ALG1\ALG1\bin\Debug\ALG1.pdb
+C:\Users\user\source\repos\ALG1\ALG1\obj\Debug\ALG1.csproj.AssemblyReference.cache
+C:\Users\user\source\repos\ALG1\ALG1\obj\Debug\ALG1.csproj.CoreCompileInputs.cache
+C:\Users\user\source\repos\ALG1\ALG1\obj\Debug\ALG1.exe
+C:\Users\user\source\repos\ALG1\ALG1\obj\Debug\ALG1.pdb
